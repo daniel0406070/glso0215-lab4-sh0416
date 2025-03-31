@@ -1,6 +1,6 @@
 NHYOK CHOI
 
-![face.jpg](lib/face.jpg)
+![face.jpg](face.jpg)
 
 ### Contact
 
